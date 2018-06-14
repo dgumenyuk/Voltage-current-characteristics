@@ -1,0 +1,2 @@
+https://www.arduinolibraries.info/libraries/adafruit-ina219 - Arduino library for current/power monitor INA219
+https://github.com/frejanordsiek/arduino_library_AD56X4 - Arduino library for AD5624R ADC 
